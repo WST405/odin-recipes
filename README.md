@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first attempt getting into coding. It shows what i've learned about some basic HTML stuff and Git in the first lessons of The Odin Code. Let's see how it looks like and if it works. I know it's not going to look amazing but let's go step by step.
